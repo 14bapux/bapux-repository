@@ -4,4 +4,4 @@ Bapux RESOLUSI 2022:
 - Konsisten untuk belajar ubuntu server melalui udemy
 - Meng-upload setiap pelajaran di github
 - Belajar setiap hari selama 1 jam
-- Kolaborasi dengan yang lebih expert
+- Membuat vlog
