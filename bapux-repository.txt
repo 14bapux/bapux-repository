@@ -1,0 +1,5 @@
+Bapux RESOLUSI 2022:
+- Konsisten untuk belajar python
+- Konsisten untuk belajar data visualization
+- Konsisten untuk belajar ubuntu server melalui udemy
+- Meng-upload setiap pelajaran di github
