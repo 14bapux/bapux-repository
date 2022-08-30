@@ -1,8 +1,11 @@
 Rencana Konten Bapux
 - Javascript
   * ES6
-  * Framework Javascript 
+  * Framework Javascript
+   > Vue
 - Struktur Data Dasar
 - PHP Frameworks
+  > Laravel
 - Interview
 - Vlogs
+- Python
